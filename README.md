@@ -1,5 +1,4 @@
-# Oddslingers Gaming [![Codecov](https://codecov.io/gh/monadical-sas/oddslingers.poker/branch/dev/graph/badge.svg?token=FUrKdNe6wp)](https://codecov.io/gh/monadical-sas/oddslingers.poker) [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
-♥️🂱♣️🃑♦️🃁♠️🂡♥️🂱♣️🃑♦️🃁♠️🂡♥️🂱♣️🃑♦️🃁♠️🂡♥️🂱♣️🃑♦️🃁♠️🂡♥️🂱♣️🃑♦️🃁♠️🂡♥️🂱♣️🃑♦️🃁♠️
+# Oddslingers Gaming [![Codecov](https://codecov.io/gh/React-Guru-Org/poker-game/branch/dev/graph/badge.svg?token=FUrKdNe6wp)](https://codecov.io/gh/React-Guru-Org/poker-game) [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
 ## Project Quickstart
 
@@ -8,7 +7,7 @@
 # and docker-compose: https://docs.docker.com/compose/install/
 # you may also have to add your user to the docker group: https://docs.docker.com/engine/install/linux-postinstall/
 
-git clone https://github.com/monadical-sas/oddslingers.poker.git
+git clone https://github.com/React-Guru-Org/poker-gamegit
 cd oddslingers.poker
 
 # Add to /etc/hosts  ->   127.0.0.1    oddslingers.l
@@ -54,24 +53,16 @@ docker-compose down
 
 ## Documentation
  
- - [Setup: Dev](https://github.com/monadical-sas/oddslingers.poker/wiki/Setup:-Dev) or [Setup: Prod](https://github.com/monadical-sas/oddslingers.poker/wiki/Setup:-Prod)
- - [Layers of the Stack](https://github.com/monadical-sas/oddslingers.poker/wiki/Layers-of-the-Stack)
- - [Quickstart & Common Tasks](https://github.com/monadical-sas/oddslingers.poker/wiki/Common-Tasks)
- - [Project Directory Structure](https://github.com/monadical-sas/oddslingers.poker/wiki/Folder-Locations)
- - [Configuration](https://github.com/monadical-sas/oddslingers.poker/wiki/Configuration)
- - [Running Tests & Linters](https://github.com/monadical-sas/oddslingers.poker/wiki/Running-Tests-&-Linters)
- - [Dependency Documentation](https://github.com/monadical-sas/oddslingers.poker/wiki/Dependency-Documentation)
- - [Game Engine Documentation](https://github.com/monadical-sas/oddslingers.poker/wiki/Game-Engine)
- - [Style Guide](https://github.com/monadical-sas/oddslingers.poker/wiki/Style-Guide)
- - [Debugging & Profiling Tools](https://github.com/monadical-sas/oddslingers.poker/wiki/Debugging-&-Profiling-Tools)
- - [Git Flow & Making Pull Requests](https://github.com/monadical-sas/oddslingers.poker/wiki/Git-Flow)
+ - [Setup: Dev](https://github.com/React-Guru-Org/poker-game/wiki/Setup:-Dev) or [Setup: Prod](https://github.com/React-Guru-Org/poker-game/wiki/Setup:-Prod)
+ - [Layers of the Stack](https://github.com/React-Guru-Org/poker-game/wiki/Layers-of-the-Stack)
+ - [Quickstart & Common Tasks](https://github.com/React-Guru-Org/poker-game/wiki/Common-Tasks)
+ - [Project Directory Structure](https://github.com/React-Guru-Org/poker-game/wiki/Folder-Locations)
+ - [Configuration](https://github.com/React-Guru-Org/poker-game/wiki/Configuration)
+ - [Running Tests & Linters](https://github.com/React-Guru-Org/poker-game/wiki/Running-Tests-&-Linters)
+ - [Dependency Documentation](https://github.com/React-Guru-Org/poker-game/wiki/Dependency-Documentation)
+ - [Game Engine Documentation](https://github.com/React-Guru-Org/poker-game/wiki/Game-Engine)
+ - [Style Guide](https://github.com/React-Guru-Org/poker-game/wiki/Style-Guide)
+ - [Debugging & Profiling Tools](https://github.com/React-Guru-Org/poker-game/wiki/Debugging-&-Profiling-Tools)
+ - [Git Flow & Making Pull Requests](https://github.com/React-Guru-Org/poker-game/wiki/Git-Flow)
 
-We use the Github [Wiki](https://github.com/monadical-sas/oddslingers.poker/wiki) for documentation, head over there for more info...
-
-## Issue Tracking
-
-To get started, check out some of our "Green Light" issues in the [issue tracker](https://github.com/monadical-sas/oddslingers.poker/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22green+light%22+).
-
-Or, look for issues to work on in your [Project Board](https://github.com/monadical-sas/oddslingers.poker/projects).
-
-♥️🂱♣️🃑♦️🃁♠️🂡♥️🂱♣️🃑♦️🃁♠️🂡♥️🂱♣️🃑♦️🃁♠️🂡♥️🂱♣️🃑♦️🃁♠️🂡♥️🂱♣️🃑♦️🃁♠️🂡♥️🂱♣️🃑♦️🃁♠️
+We use the Github [Wiki](https://github.com/React-Guru-Org/poker-game/wiki) for documentation, head over there for more info...
